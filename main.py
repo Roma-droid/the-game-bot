@@ -6,7 +6,7 @@ from contextlib import contextmanager
 import telebot
 from telebot import types
 
-TOKEN = '8771040353:AAGf9ZxAFODQ6XbadtF4lZTiAx4Kaq28a9w'
+TOKEN = ''
 DB_PATH = 'bot.db'
 bot = telebot.TeleBot(TOKEN)
 
