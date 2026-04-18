@@ -16,7 +16,7 @@
 ## Установка
 
 ```bash
-pip install pyTelegramBotAPI
+pip install telebot
 ```
 
 SQLite встроена в стандартную библиотеку Python — отдельно ставить не нужно.
